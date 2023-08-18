@@ -73,3 +73,8 @@ Created Docker Image sucesfully
  => => exporting layers                                                                                                                                                                                     0.4s
  => => writing image sha256:612a1b75c831b30c6cdfb1ddf1091a46c58d709bc43f6e96dab42c71f4058d60                                                                                                                0.0s 
  => => naming to docker.io/library/python-django      
+
+# Step 5
+Have published the image succesfully 
+ ![image](https://github.com/mwaqaskh/waqas_docker-assignment/assets/39801941/fd36e670-b0ab-479e-a879-7876ebb04403)
+
