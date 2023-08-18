@@ -16,6 +16,19 @@ Added below dependencies in requirement.txt
 
 
 Below is Dockerfile
+
+FROM python:3.8-slim-buster
+WORKDIR /app
+
+COPY requirements.txt requirements.txt
+
+RUN pip3 install -r requirements.txt
+
+COPY . .
+
+CMD ["python3", "manage.py", "runserver"]
+
+
 FROM python:3.8-slim-buster           //base image
 WORKDIR /app                              // change Work Directory
 COPY requirements.txt requirements.txt          // copy the requirement.txt file to install the dependencies 
