@@ -78,3 +78,12 @@ Created Docker Image sucesfully
 Have published the image succesfully 
  ![image](https://github.com/mwaqaskh/waqas_docker-assignment/assets/39801941/fd36e670-b0ab-479e-a879-7876ebb04403)
 
+# Step 6
+I have created repo name "waqas_docker-assignment"
+![image](https://github.com/mwaqaskh/waqas_docker-assignment/assets/39801941/1d8670e6-a957-418a-bc13-6c49c2fd2536)
+
+
+# Step 7 
+I have succfully created the README.ms file and have logged the details of each step in this file
+
+# Step 8
