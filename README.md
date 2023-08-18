@@ -25,7 +25,7 @@ CMD ["python3", "manage.py", "runserver"]            //command to run when the c
 
 
 # Step4:
-Created Docker File
+Created Docker Image sucesfully 
 
 ![image](https://github.com/mwaqaskh/waqas_docker-assignment/assets/39801941/96c963a1-9ac5-4e0e-9c35-1c6d27100412)
 
